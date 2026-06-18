@@ -1,7 +1,8 @@
 # Day 16 - Track 2: Cloud Infrastructure for AI  
 ## Báo cáo Benchmark phương án CPU thay thế GPU
 
-**Họ tên:** Nam Lê Hoàng  
+**Họ tên:** Lê Hoàng Nam
+**Mã Sinh Viên** 2A202600965
 **Mục tiêu:** Triển khai hạ tầng cloud trên AWS, chạy benchmark Machine Learning trên CPU node và kiểm tra chi phí vận hành.  
 **Dataset:** Credit Card Fraud Detection (`mlg-ulb/creditcardfraud`)  
 **Model:** LightGBM Classifier  
