@@ -1,0 +1,2 @@
+load_data_time_sec,training_time_sec,best_iteration,auc_roc,accuracy,f1_score,precision,recall,inference_latency_1_row_ms,inference_throughput_1000_rows_per_sec
+1.6067,12.5747,1000,0.976687,0.999579,0.87234,0.911111,0.836735,1.319647,52847.62
